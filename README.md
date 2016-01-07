@@ -12,7 +12,7 @@ An increase in n_max or res will improve the quality of the output but can subst
 
 Example of output generated with the following variable values:
 n_max=10 
-res=10000 
+res=5000 
 c_min =-2 
 c_max = 2 
 
