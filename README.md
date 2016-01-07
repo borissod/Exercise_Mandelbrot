@@ -10,9 +10,3 @@ c_min / c_max: the plot range of the picture for the x-axis. There is a 0.5 gap 
 
 An increase in n_max or res will improve the quality of the output but can substantially increase the calculation time.
 
-Example of output generated with the following variable values:
-n_max=10 
-res=5000 
-c_min =-2 
-c_max = 2 
-
